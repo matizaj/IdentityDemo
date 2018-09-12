@@ -1,0 +1,19 @@
+﻿@model Question
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name">Imie</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Profession">Zawod</label>
+        <input asp-for="Profession" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Age">Wiek</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+    
+    <button type="submit">Wyslij</button>
+    <a asp-action="Index">Anuluj</a>
+</form>

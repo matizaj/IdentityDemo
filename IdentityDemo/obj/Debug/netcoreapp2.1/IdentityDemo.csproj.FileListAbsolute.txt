@@ -33,3 +33,6 @@ C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Ide
 C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
 C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
 C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Thanks.g.cshtml.cs
+C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Question\Create.g.cshtml.cs
+C:\Users\DELL\Source\Repos\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.1\Razor\Views\Question\Thanks.g.cshtml.cs

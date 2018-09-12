@@ -15,5 +15,6 @@ namespace IdentityDemo.Data
            
         }
         public DbSet<AppUser> MyUsers { get; set; }
+        public DbSet<Question> Questions { get; set; }
     }
 }
